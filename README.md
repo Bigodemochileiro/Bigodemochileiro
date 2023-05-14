@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Bigodemochileiro)
  <div>
-img src = "https://user-images.githubusercontent.com/41455946/233816737-366269b6-6945-44f5-805c-6ba94e457142.gif">
+<img src = "https://user-images.githubusercontent.com/41455946/233816737-366269b6-6945-44f5-805c-6ba94e457142.gif">
    <a href="https://github.com/Bigodemochileiro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bigodemochileiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigodemochileiro&layout=compact&langs_count=6&theme=tokyonight"/>
